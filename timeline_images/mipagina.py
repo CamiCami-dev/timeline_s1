@@ -8,9 +8,9 @@ st.write(
 )
 
 # URLs de imágenes en GitHub
-base_url = "https://github.com/CamiCami-dev/timeline_s1/blob/main/timeline_images/"
+base_url = "https://github.com/CamiCami-dev/timeline_s1/main/timeline_images/"
 imagenes = {
-    1: "https://github.com/CamiCami-dev/timeline_s1/blob/main/timeline_images/timeline1.png",
+    1: base_url + "timeline1.png",
     2: base_url + "timeline2.png",
     3: base_url + "timeline3.png",
     4: base_url + "timeline4.png",
